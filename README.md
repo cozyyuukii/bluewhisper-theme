@@ -59,6 +59,7 @@ The color scheme is managed entirely in `style.css` using CSS variables. You can
     --clr-text-dark: #3a4d6f;      /* Headings */
 }
 ```
+```
 📂 Project Structure
 
 /
@@ -67,7 +68,7 @@ The color scheme is managed entirely in `style.css` using CSS variables. You can
 ├── script.js       # UI logic (scroll, nav, ripple effects)
 └── assets/         # (Optional) Folder for images/icons
 
-
+```
 📄 License
 
 This project is open source and available under the MIT License.
