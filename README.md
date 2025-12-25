@@ -58,7 +58,7 @@ The color scheme is managed entirely in `style.css` using CSS variables. You can
     --clr-secondary: #a3d8d0;      /* Frosted Teal (Secondary Accent) */
     --clr-text-dark: #3a4d6f;      /* Headings */
 }
-
+```
 📂 Project Structure
 
 /
