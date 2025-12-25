@@ -73,6 +73,3 @@ The color scheme is managed entirely in `style.css` using CSS variables. You can
 
 This project is open source and available under the MIT License.
 
-<p align="center">
-Coded with calm near Thrissur, Kerala. 🥥
-</p>
