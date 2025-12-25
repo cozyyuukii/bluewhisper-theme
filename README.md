@@ -1,3 +1,4 @@
+```markdown
 # 🌊 BlueWhisper Theme
 
 > "Weaving digital tapestries with quiet focus and creative rhythm."
@@ -59,15 +60,29 @@ The color scheme is managed entirely in `style.css` using CSS variables. You can
     --clr-text-dark: #3a4d6f;      /* Headings */
 }
 
-📂 Project Structure
-Plaintext
+```
 
+## 📂 Project Structure
+
+```text
 /
 ├── index.html      # Main HTML structure
 ├── style.css       # Global styles, variables, and animations
 ├── script.js       # UI logic (scroll, nav, ripple effects)
 └── assets/         # (Optional) Folder for images/icons
 
-📄 License
+```
 
-This project is open source and available under the MIT License.
+## 📄 License
+
+This project is open source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
+
+---
+
+<p align="center">
+Coded with calm near Thrissur, Kerala. 🥥
+</p>
+
+```
+
+```
