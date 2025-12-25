@@ -1,4 +1,5 @@
-# 🌊 BlueWhisper Theme
+
+# :ocean: BlueWhisper Theme
 
 > "Weaving digital tapestries with quiet focus and creative rhythm."
 
@@ -8,7 +9,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## ✨ Features
+## :sparkles: Features
 
 * **Serene Visual Design:** A custom color palette defined via CSS variables, inspired by the tranquility of dawn.
 * **Responsive Layout:** Fully adaptive design that works seamlessly on mobile, tablet, and desktop screens.
@@ -22,7 +23,7 @@
     * Dynamic "Back to Top" button.
 * **Performance:** Built with vanilla JavaScript (no heavy frameworks) and optimized CSS for fast load times.
 
-## 🛠️ Tech Stack
+## :tools: Tech Stack
 
 * **Structure:** Semantic HTML5
 * **Styling:** CSS3 (Flexbox, Grid, CSS Variables, Keyframe Animations)
@@ -30,7 +31,7 @@
 * **Icons:** [Bootstrap Icons](https://icons.getbootstrap.com/)
 * **Fonts:** [Quicksand](https://fonts.google.com/specimen/Quicksand) (Body) & [Kristi](https://fonts.google.com/specimen/Kristi) (Headers)
 
-## 🚀 Getting Started
+## :rocket: Getting Started
 
 Since this is a static website, no build process or backend server is required.
 
@@ -41,7 +42,7 @@ Since this is a static website, no build process or backend server is required.
 2.  **Open the project:**
     Simply navigate to the folder and open `index.html` in your web browser.
 
-## 🎨 Customization
+## :art: Customization
 
 ### 1. Changing the Branding
 To make this site your own, open `index.html` and replace instances of "Yuukii" with your name. Don't forget to update the `<title>` tag and the meta description!
@@ -58,10 +59,12 @@ The color scheme is managed entirely in `style.css` using CSS variables. You can
     --clr-secondary: #a3d8d0;      /* Frosted Teal (Secondary Accent) */
     --clr-text-dark: #3a4d6f;      /* Headings */
 }
-```
-```
-📂 Project Structure
 
+```
+
+## :open_file_folder: Project Structure
+
+```text
 /
 ├── index.html      # Main HTML structure
 ├── style.css       # Global styles, variables, and animations
@@ -69,7 +72,17 @@ The color scheme is managed entirely in `style.css` using CSS variables. You can
 └── assets/         # (Optional) Folder for images/icons
 
 ```
-📄 License
 
-This project is open source and available under the MIT License.
+## :page_facing_up: License
 
+This project is open source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
+
+---
+
+<p align="center">
+Coded with calm near Thrissur, Kerala. :coconut:
+</p>
+
+```
+
+```
