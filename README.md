@@ -37,7 +37,7 @@ Since this is a static website, no build process or backend server is required.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/cozyyuukii/bluewhisper-theme.git](https://github.com/cozyyuukii/bluewhisper-theme.git)
+    git clone https://github.com/cozyyuukii/bluewhisper-theme.git
     ```
 2.  **Open the project:**
     Simply navigate to the folder and open `index.html` in your web browser.
@@ -79,8 +79,7 @@ This project is open source and available under the [MIT License](https://www.go
 
 ---
 
-<p align="center">
-Coded with calm near Thrissur, Kerala. :coconut:
+
 </p>
 
 ```
